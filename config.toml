@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Dawid Sosinski Personal Website"
 # Main Menu
 [[menu.main]]
 name = "Home"
